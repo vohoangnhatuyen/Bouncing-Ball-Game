@@ -37,6 +37,6 @@ To run the application, navigate to the `src/com/example/bouncingballgamejavafx`
 Contributions to the Bouncing Ball game are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
-Specify your project's license here, if applicable.
+This project is licensed under the MIT license.
 
 ---
