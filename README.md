@@ -1,7 +1,13 @@
-# Bouncing Ball Game JavaFX
+# Bouncing Ball Game with JavaFX
 
 ## Overview
 The Bouncing Ball game is a simple, interactive JavaFX application where a ball bounces around the screen. Users can control the speed of the ball using the up and down arrow keys. The game demonstrates the use of JavaFX animation and event handling capabilities.
+
+## User Interface
+
+<p align="center" style="cursor: pointer">
+    <img src="ui.png" alt="Bouncing Ball Game Interface" width="100%"/>
+</p>
 
 ## Features
 - Ball speed control with keyboard inputs (UP to increase speed, DOWN to decrease speed).
