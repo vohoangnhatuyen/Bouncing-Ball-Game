@@ -46,3 +46,5 @@ Contributions to the Bouncing Ball game are welcome. Please feel free to fork th
 This project is licensed under the MIT license. See [LICENSE](LICENSE) for more details.
 
 ---
+
+Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
